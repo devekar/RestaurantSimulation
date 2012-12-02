@@ -1,0 +1,17 @@
+Restaurant Simulation
+=====================
+
+Arrival time : TableNo CookId   SeatedTime   BurgerTime FriesTime CokeTime   ServedTime LeftTime
+
+ 20: T0  C1     20    20  30  -     33  63
+ 30: T1  C0     30    30  -   50    51  81
+ 31: T2  C1     31    50  33  -     60  90
+ 32: T3  C0     32    60  51  -     70 100
+ 33: T0  C1     63    70  -   63    80 110
+ 60: T1  C0    128   132 128  -    142 172
+ 70: T3  C0    100   102  -  100   122 152
+ 71: T0  C1    110   122 110  -    132 162
+ 72: T1  C0     81    81  91  -     98 128
+ 73: T2  C1     90    91  -   90   101 131
+
+Last Diner left at 172
